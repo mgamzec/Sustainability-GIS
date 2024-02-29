@@ -12,3 +12,9 @@ The terminology for the field that conducts analytics with spatial data has had 
 
 
 <img width="653" alt="image" src="https://github.com/mgamzec/Sustainability-GIS/assets/62151645/be085531-e233-4721-885e-8ae43cf6f516">
+
+<img width="600" alt="image" src="https://github.com/mgamzec/Sustainability-GIS/assets/62151645/3839d513-2604-4a22-8e67-1ed1dc7f309a">
+
+<img width="467" alt="image" src="https://github.com/mgamzec/Sustainability-GIS/assets/62151645/c595542e-5707-4881-a756-422ef246056b">
+
+
