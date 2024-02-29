@@ -1,0 +1,57 @@
+name: sustainability-gis
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - gitpython
+  - git
+  - jupyterlab<4.0
+  - jupyterlab-git
+  - access
+  - contextily
+  - dask
+  - dask-ml
+  - datashader
+  - esda
+  - fiona=1.8.22
+  - geopandas
+  - geojson
+  - geoplot
+  - geoviews
+  - inequality
+  - mapclassify
+  - matplotlib
+  - mesa
+  - mgwr
+  - momepy
+  - movingpandas
+  - networkx
+  - openjdk
+  - openpyxl
+  - osmnx
+  - palettable
+  - pandana
+  - pointpats
+  - pyrosm
+  - pysal
+  - python-igraph
+  - r5py
+  - r5py.sampledata.helsinki>=0.1.1dev2
+  - r5py.sampledata.sao_paulo>=0.1.1dev2
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - scikit-mobility
+  - segregation
+  - simpy
+  - spint
+  - splot
+  - spreg
+  - statsmodels
+  - seaborn
+  - pandas
+  - urbanaccess
+  - nose
+  - jinja2
