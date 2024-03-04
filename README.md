@@ -1,5 +1,8 @@
 # Sustainability-GIS
 
+![poster_group_7 pdf](https://github.com/mgamzec/Sustainability-Geospatial/assets/62151645/f91f5aba-8a8c-41a8-ad72-15c8d6b99908)
+
+
 # What is sustainability? 
 
 Sustainability is a broad concept that interlinks to all aspects of society and environment. Sustainability is widely discussed topic in today’s world, and it is extremely likely that you have heard about it. In recent years, sustainability has become a “trendy” word that is frequently used by politicians, companies, and universities alike (plus many more). Anyway, who wouldn’t like to have a “better and more sustainable future”?
